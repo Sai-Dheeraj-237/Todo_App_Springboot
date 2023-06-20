@@ -1,0 +1,7 @@
+1678346157273	Rename resource 'todo.jsp'
+1678346349950	Rename resource 'add-todo.jsp'
+1678444485636	Rename resource 'navigation.jpsf'
+1678448897595	Delete element
+1678449053305	Rename type 'OneController'
+1678449132234	Extract method 'getLoggedInUserName'
+1678472663272	Rename type 'LoginController'
